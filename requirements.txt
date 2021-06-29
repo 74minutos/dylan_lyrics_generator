@@ -4,4 +4,5 @@ pandas
 streamlit
 altair
 lyricsgenius
+tensorflow==2.2
 textgenrnn
