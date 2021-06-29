@@ -1,0 +1,9 @@
+flake8
+mypy
+pandas
+streamlit
+altair
+lyricsgenius
+tensorflow-gpu
+textgenrnn
+colab-everything
