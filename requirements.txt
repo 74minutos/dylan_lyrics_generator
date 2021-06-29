@@ -4,6 +4,6 @@ pandas
 streamlit
 altair
 lyricsgenius
-tensorflow
+tensorflow-gpu-2.3.2
 keras
 textgenrnn
