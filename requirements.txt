@@ -4,6 +4,6 @@ pandas
 streamlit
 altair
 lyricsgenius
-tensorflow-gpu
+tensorflow
+keras
 textgenrnn
-colab-everything

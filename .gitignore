@@ -2,5 +2,4 @@ env
 __pycache__
 .git
 credentials
-results
 textgenrnn_weights.hdf5
