@@ -5,4 +5,5 @@ streamlit
 altair
 lyricsgenius
 tensorflow==2.2
+tensorflow-estimator==2.1
 textgenrnn
