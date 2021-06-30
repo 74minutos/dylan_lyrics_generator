@@ -7,4 +7,5 @@ lyricsgenius
 tensorflow==2.2
 tensorflow-estimator==2.2
 keras==2.3
+numpy==1.19.5
 textgenrnn
