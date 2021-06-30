@@ -8,7 +8,6 @@ st.title('Bob Dylan Lyrics Generator')
 
 st.markdown("Create new lyrics based on Bob Dylan Style")
 
-@st.cache(suppress_st_warning=True)
 def text_generator():
     textgen = textgenrnn()
     textgen.train_from_file('lyrics/dylan.txt', num_epochs=5)
