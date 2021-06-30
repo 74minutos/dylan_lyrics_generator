@@ -12,7 +12,7 @@ def text_generator():
     textgen = textgenrnn()
     textgen.train_from_file('lyrics/dylan.txt', num_epochs=1)
 
-    results_data = textgen.generate(25, temperature=0.2, return_as_list=True)
+    results_data = textgen.generate(25, temperature=0.5, return_as_list=True)
     for text in results_data:
         st.text(text)
 
