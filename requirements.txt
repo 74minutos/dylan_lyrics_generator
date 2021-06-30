@@ -6,4 +6,5 @@ altair
 lyricsgenius
 tensorflow==2.2
 tensorflow-estimator==2.2
+keras==2.2.0
 textgenrnn
